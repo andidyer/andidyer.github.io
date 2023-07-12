@@ -42,6 +42,6 @@ Languages
 * French : fr-FR (B2)
 * Japanese : ja-JP (B2-C1)
 * Chinese Mandarin : zh-CN (B2)
-* Swedish : se-SV (B1)
+* Swedish : sv-SE (B1)
 * Portuguese : pt-PT (B1)
 * German : de-DE (A2-B1)
