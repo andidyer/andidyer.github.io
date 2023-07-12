@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Japanese, School of Oriental and African Studies
+* M.A. in Language Technology, Uppsala University
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Computational Linguist, Defined.ai
+  * **Lisbon, Portugal**
+  * January 2021 - October 2022
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Speech Technologist, Readspeaker
+  * **Uppsala, Sweden**
+  * July 2018 - December 2020
+  * Contract
+
+ * Some other stuff, not necessarily relevant to Computational Linguistics
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Linguistics
+* Machine learning
+* Programming
+  * Python
+  * R
+  * C++ (basic)
+ 
+Languages
+======
+* English : en-GB (native)
+* French : fr-FR (B2)
+* Japanese : ja-JP (B2-C1)
+* Chinese Mandarin : zh-CN (B2)
+* Swedish : se-SV (B1)
+* Portuguese : pt-PT (B1)
+* German : de-DE (A2-B1)
 
 Publications
 ======
